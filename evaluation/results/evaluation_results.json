@@ -1,0 +1,85 @@
+{
+  "basic_results": {
+    "educational": {
+      "accuracy": 0.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "avg_processing_time": 0.00045809149742126465,
+      "total_test_cases": 8,
+      "total_words": 8,
+      "corrected_words": 0
+    },
+    "conversational": {
+      "accuracy": 0.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "avg_processing_time": 0.004093468189239502,
+      "total_test_cases": 8,
+      "total_words": 8,
+      "corrected_words": 0
+    },
+    "literary": {
+      "accuracy": 0.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "avg_processing_time": 0.003220796585083008,
+      "total_test_cases": 8,
+      "total_words": 8,
+      "corrected_words": 0
+    },
+    "overall": {
+      "accuracy": 0.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "avg_processing_time": 0.0025907854239145913
+    }
+  },
+  "enhanced_results": {
+    "educational": {
+      "accuracy": 0.125,
+      "precision": 0.125,
+      "recall": 0.125,
+      "f1_score": 0.125,
+      "avg_processing_time": 0.16229873895645142,
+      "total_test_cases": 8,
+      "total_words": 8,
+      "corrected_words": 1
+    },
+    "conversational": {
+      "accuracy": 0.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "avg_processing_time": 0.14105480909347534,
+      "total_test_cases": 8,
+      "total_words": 8,
+      "corrected_words": 0
+    },
+    "literary": {
+      "accuracy": 0.125,
+      "precision": 0.125,
+      "recall": 0.125,
+      "f1_score": 0.125,
+      "avg_processing_time": 0.29303327202796936,
+      "total_test_cases": 8,
+      "total_words": 8,
+      "corrected_words": 1
+    },
+    "overall": {
+      "accuracy": 0.08333333333333333,
+      "precision": 0.08333333333333333,
+      "recall": 0.08333333333333333,
+      "f1_score": 0.08333333333333333,
+      "avg_processing_time": 0.19879560669263205
+    }
+  },
+  "test_sets_size": {
+    "educational": 8,
+    "conversational": 8,
+    "literary": 8
+  }
+}
